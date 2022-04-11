@@ -50,7 +50,7 @@ function handleResultValidation() {
     if (roundWon) {
         statusDisplay.innerHTML = winningMessage();
         gameActive = false;
-        statusDisplay.style.color = "darkorange";
+        statusDisplay.style.color = "rgb(251,100,204)";
         return;
     }
 
@@ -58,7 +58,7 @@ function handleResultValidation() {
     if (roundDraw) {
         statusDisplay.innerHTML = drawMessage();
         gameActive = false;
-        statusDisplay.style.color = "darkorange";
+        statusDisplay.style.color = "rgb(251,100,204)";
         return;
     }
 
