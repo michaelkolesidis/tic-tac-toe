@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-<img src="https://github.com/michaelkolesidis/tic-tac-toe/blob/main/tic-tac-toe.png">
+<img src="https://github.com/michaelkolesidis/tic-tac-toe/blob/main/tic-tac-toe-screenshot.png">
 
 Tic-tac-toe in vanilla JavaScript
 
