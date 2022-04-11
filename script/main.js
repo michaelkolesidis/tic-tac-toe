@@ -18,7 +18,6 @@ const cell8 = document.querySelector('#c8');
 const cell9 = document.querySelector('#c9');
 const cells = document.querySelectorAll('.cell');
 
-
 const game = {
     // add counter and gamePlay here
 }
@@ -34,12 +33,16 @@ cells.forEach((cell) => {
         }
 
         counter++;
-        console.log(counter)
+        console.log("round: " + counter)
+        console.log(cell.innerHTML)
     });
 });
 
-
-
+function snitch() {
+    if (cell1.innerHTML == "O")
+        console.log("player one");
+}
+snitch();
 
 
 
@@ -86,6 +89,7 @@ function reload() {
     const reload = document.querySelector('.reload');
     reload.addEventListener('click', () => {
         window.location.reload();
-        console.log("it works");
+        console.log("reloading...");
     });
 }
+reload();

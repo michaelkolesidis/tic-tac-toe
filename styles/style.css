@@ -35,14 +35,26 @@ body {
     vertical-align: middle;
     line-height: 6rem;
     font-size: 6rem;
+    cursor: pointer;
+    user-select: none;
 }
 
+
+/*************************************/
+/******        Game Status       *****/
+/*************************************/
+.status {
+    color: rgb(65, 65, 65);
+    /* color: orangered; */
+    font-size: 1.2rem;
+    font-weight: 600;
+}
 
 
 /*************************************/
 /******       Reload Button      *****/
 /*************************************/
-.reload {
+.restart {
     color: rgb(65, 65, 65);
     background-color: rgb(231, 231, 231);
     font-size: 1.2rem;
@@ -53,9 +65,10 @@ body {
     border: 0;
     border-radius: 40px;
     width: 8rem;
+    cursor: pointer;
 }
 
-.reload:hover {
+.restart:hover {
     color: rgb(255, 255, 255);
     background-color: rgb(185, 185, 185);
     box-shadow: 0 5px 15px rgba(167, 167, 167, 0.4);
@@ -114,7 +127,7 @@ body {
     top: auto;
 }
 
-@media screen and (min-width:800px) {
+@media screen and (max-width:800px) {
     #forkongithub {
         position: fixed;
         display: block;
