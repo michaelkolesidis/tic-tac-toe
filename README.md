@@ -2,10 +2,10 @@
   
   <img src="./logo.png" height="150px">
   <h3>Tic-Tac-Toe</h3>
-  
+    
 </div>
 
-
+<a href="https://tic-tac-toe-michael.netlify.app/"><h3 align="center">Try me!</h3></a>
 
 ## Technologies Used
 
