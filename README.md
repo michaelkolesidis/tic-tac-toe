@@ -7,6 +7,12 @@
 
 <a href="https://tic-tac-toe-michael.netlify.app/"><h3 align="center">Try me!</h3></a>
 
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0376d02-8121-4fc9-a93e-d8e6ecb5b9c8/deploy-status)](https://app.netlify.com/sites/tic-tac-toe-michael/deploys)
+
+
+
 ## Technologies Used
 
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
@@ -28,7 +34,10 @@ The popular Tic-tac-toe game, implemented with vanilla JavaScript.
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b0376d02-8121-4fc9-a93e-d8e6ecb5b9c8/deploy-status)](https://app.netlify.com/sites/tic-tac-toe-michael/deploys)
+## License
+
+Copyright (c) 2022 Michael Kolesidis<br>
+Licensed under the [GNU General Public License v3.0](https://github.com/michaelkolesidis/webproject-script/blob/main/LICENSE).
 
 
 
