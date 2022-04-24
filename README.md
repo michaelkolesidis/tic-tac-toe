@@ -34,6 +34,11 @@ The popular Tic-tac-toe game, implemented with vanilla JavaScript.
 
 
 
+## Related Projects
+[Minesweeper Emoji](https://github.com/michaelkolesidis/minesweeper-emoji)
+
+
+
 ## License
 
 Copyright (c) 2022 Michael Kolesidis<br>
